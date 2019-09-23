@@ -22,4 +22,4 @@ The java laguage being used includes calling of Objects and Methods from one cla
  
 ### Lessons Learned
 
-Use of Gets and Sets, calling of methods and objects from one class to another. Creating and uttilizing public and private data related to calling of data from one class to another.
+Use of Gets and Sets, calling of methods and objects from one class to another. Creating and utilizing public and private data related to calling of data from one class to another.
