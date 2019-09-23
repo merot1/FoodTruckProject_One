@@ -7,7 +7,7 @@
 ### Overview
 
 The assignment: 
-Food Truck Project takes up to five Food Trucks into the program.  The data related to each Food Truck is an I.D., Name, Food and Rating.  The user is allowed to end the Food Truck data input at any time by entering "quit".  A menu is created, providing the users with access to the information he/she has input, of five or less Food Trucks.    After the input of Food Truck data, the user is able to view a generated menu, from which the user may choose from the following choices:
+Food Truck Project takes up to five Food Trucks into the program.  The data related to each Food Truck is I.D., Name, Food and Rating.  The user is allowed to end the Food Truck data input at any time by entering "quit".  A menu is created, providing the users with access to the information he/she has input, of five or less Food Trucks.    After the input of Food Truck data, the user is able to view a generated menu, from which the user may choose from the following choices:
 * List all existing food trucks.
 * See the average rating of food trucks.
 * Display the highest-rated food truck.
